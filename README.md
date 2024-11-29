@@ -24,8 +24,7 @@ Data Persistence: Books and members are saved and loaded from text files (books.
 **Installation**
 To use the Library Management System, you need a C++ compiler.
 
-# Steps to Install and Run:
-  Clone the Repository:
+# Steps to Clone the Repository:
   git clone https://github.com/gurkaur2103/Library-Management-System.git
 
 # Usage
